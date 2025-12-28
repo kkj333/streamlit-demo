@@ -1,0 +1,10 @@
+[project]
+name = "streamlit-demo"
+version = "0.1.0"
+description = "Streamlitを使った四則演算アプリのサンプル"
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit>=1.28.0",
+]
+
+[tool.uv]

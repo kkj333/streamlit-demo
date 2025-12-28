@@ -3,6 +3,3 @@ level = "info"
 
 [client]
 showErrorDetails = true
-
-[telemetry]
-enabled = false
